@@ -3,7 +3,7 @@
 	box-sizing: border-box;
 }
 body {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	line-height: 1.4;
 	color: #364147;
@@ -177,7 +177,7 @@ section {
 }
 
 .hero {
-	background-image: url("../img/hero.jpg");
+	background-image: url('../img/hero.jpg');
 	height: 400px;
 	background-size: cover;
 	background-position: center;
